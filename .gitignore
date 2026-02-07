@@ -22,3 +22,6 @@ target
 
 # nix config direnv
 .direnv/
+
+# all bun local modules
+node_modules/
